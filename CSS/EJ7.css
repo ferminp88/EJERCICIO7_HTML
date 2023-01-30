@@ -18,7 +18,7 @@
 
 
 .container h3 {
-    color: #8b8b8b;
+    color: white;
 }
 
 .buttons{
@@ -59,7 +59,7 @@ width: 90%;
 
 
 .google-btn span{
-    color:#8b8b8b ;
+    color:white ;
     font-weight:500;
     padding: 15px;
     
@@ -76,7 +76,7 @@ width: 90%;
     cursor: pointer;
 }
 .twitter-btn span{
-    color:#8b8b8b;
+    color:white;
     font-weight:500;
     padding: 26px;
     
@@ -114,7 +114,7 @@ width: 90%;
 }
 
 .separator span{
-    color: #8b8b8b;
+    color: white;
 }
 
 .section-inputs{
@@ -141,7 +141,7 @@ label{
 
 label span{
     font-weight: 700;
-    color: #8b8b8b;
+    color: white;
 }
 label input {
     width: 100%;
@@ -166,7 +166,7 @@ label input {
 
 
 label input:hover{
-    background-color: #212121;
+    background-color: #454045;
     border: solid 1px #f3f3f4;
     box-shadow: 0 0 4px #e02197;
 }
